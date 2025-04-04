@@ -1,0 +1,48 @@
+#contact {
+    background-color: #93c1de;
+    padding: 10px, 0;
+    border-top: 25px solid white;
+
+}
+
+#contact h2 {
+    color: white;
+
+}
+
+#contact p {
+    color: white;
+}
+
+#contact label {
+    color: white;
+    display: block;
+    margin-bottom: 5px;
+}
+
+#contact input {
+    background-color: #183446;
+    color: white;
+    border: 1px solid white;
+}
+
+#contact textarea {
+    background-color: #183446;
+    color: white;
+    border: 1px solid white;
+}
+
+#contact button {
+    background-color: #183446;
+    color: white;
+    border: 1px solid white;
+}
+
+#contact button:hover {
+    background-color: #183446;
+    color: white;
+    border: 1px solid white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+
+}
+

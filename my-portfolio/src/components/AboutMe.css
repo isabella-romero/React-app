@@ -1,0 +1,26 @@
+#about {
+    background-color: #1f465d
+
+}
+
+#about h2 {
+    color: white;
+}
+
+#about p {
+    color: white;
+}
+
+.img-style {
+    height: auto;
+    width: 400px;
+    justify-content: center;
+    margin-top:40px;
+}
+
+#aboutMe {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    margin-top: 5px;
+}

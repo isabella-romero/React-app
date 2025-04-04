@@ -1,0 +1,22 @@
+#resume {
+    /* background-color: #0e485ba2; */
+    border-top: 25px solid white;
+    height: 200px;
+
+}
+
+
+#resume p {
+    color: white;
+}
+
+#resume a {
+    color: rgb(7, 7, 72);
+    
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}

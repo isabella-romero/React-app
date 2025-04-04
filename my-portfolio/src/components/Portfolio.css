@@ -1,0 +1,21 @@
+#portfolio {
+    background-color: #fac2f6;
+}
+
+#portfolio h2 {
+    color: white;
+}
+
+#portfolio p {
+    color: white;
+}
+
+#portfolio a {
+    color: rgb(7, 7, 72);
+    
+}
+
+#portfolio a:hover {
+    color: rgb(10, 10, 66);
+    text-decoration: underline;
+}
