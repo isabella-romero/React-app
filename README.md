@@ -1,4 +1,5 @@
 # React-app
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fdfde984-e80d-434c-b6ad-b90433cd2d2f/deploy-status)](https://app.netlify.com/sites/portfolioisabella/deploys)
 
 Module 12 Challenge
 
